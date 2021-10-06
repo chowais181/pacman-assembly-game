@@ -1,0 +1,3 @@
+﻿  Assembling Source.asm...
+Source.obj : warning LNK4258: directive '/ENTRY:main@0' not compatible with switch '/ENTRY:main'; ignored
+  ConsoleApplication1.vcxproj -> E:\COAL MASM\coal_project\Debug\ConsoleApplication1.exe
